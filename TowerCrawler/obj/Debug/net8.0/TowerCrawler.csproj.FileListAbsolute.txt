@@ -1,0 +1,14 @@
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\bin\Debug\net8.0\TowerCrawler.exe
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\bin\Debug\net8.0\TowerCrawler.deps.json
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\bin\Debug\net8.0\TowerCrawler.runtimeconfig.json
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\bin\Debug\net8.0\TowerCrawler.dll
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\bin\Debug\net8.0\TowerCrawler.pdb
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.AssemblyInfoInputs.cache
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.AssemblyInfo.cs
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.csproj.CoreCompileInputs.cache
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.dll
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\refint\TowerCrawler.dll
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.pdb
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.genruntimeconfig.cache
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\ref\TowerCrawler.dll
