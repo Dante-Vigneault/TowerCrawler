@@ -12,3 +12,4 @@ C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\refint\To
 C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.pdb
 C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.genruntimeconfig.cache
 C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\ref\TowerCrawler.dll
+C:\Users\dante\source\repos\TowerCrawler\TowerCrawler\obj\Debug\net8.0\TowerCrawler.sourcelink.json
